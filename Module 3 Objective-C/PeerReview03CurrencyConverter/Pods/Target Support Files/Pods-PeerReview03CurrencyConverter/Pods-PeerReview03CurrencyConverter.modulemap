@@ -1,0 +1,6 @@
+framework module Pods_PeerReview03CurrencyConverter {
+  umbrella header "Pods-PeerReview03CurrencyConverter-umbrella.h"
+
+  export *
+  module * { export * }
+}
